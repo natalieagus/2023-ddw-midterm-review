@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Caches and temporary files
+*.pyo
+*.swp
+*.swo
+.pytest_cache/
+
+# User-specific files
+*.DS_Store
+.DS_Store
+Thumbs.db
